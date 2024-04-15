@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkziqxdocs=self.webpackChunkziqxdocs||[]).push([[774],{3447:t=>{t.exports=JSON.parse('{"title":"Ziqx Auth","slug":"/category/ziqx-auth","permalink":"/docs/category/ziqx-auth","navigation":{"previous":{"title":"Tutorial Intro","permalink":"/docs/intro"},"next":{"title":"Introduction","permalink":"/docs/ziqx-auth/intro"}}}')}}]);
