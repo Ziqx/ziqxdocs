@@ -57,9 +57,9 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Ziqx Docs",
       logo: {
-        alt: "My Site Logo",
+        alt: "Ziqx Docs",
         src: "img/logo.svg",
       },
       items: [
