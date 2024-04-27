@@ -30,3 +30,7 @@ Replace `{appKey}` with the `appKey` obtained during app registration.
 
 Once you receive the JWT token in the `code` query parameter, you can extract the user details and authenticate the user in your app or website.
 
+## Development Redirect
+You can pass the query `dev=1` in the URL, so the user will be redirected to the development endpoint added in the app configuration.
+Eg: ```https://account.ziqx.cc?appId={appKey}&dev=1```
+
